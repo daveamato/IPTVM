@@ -21,7 +21,7 @@ IPTVM is available on GitHub, you can clone and install it as follows:
 
 **Linux**
 
-* $ git clone https://github.com/AlexanderJLiu/IPTVM.git
+* $ git clone https://github.com/daveamato/IPTVM.git
 * Install Apache, PHP and its extensions e.g. php-mysql etc, MySQL
 * Copy IPTVM to /var/www/html
 * Start Apache and MySQL, import the sql files
